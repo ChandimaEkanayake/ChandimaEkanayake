@@ -21,4 +21,4 @@ I build software for a living, and I like it best when it quietly takes a chore 
 
 ### A note on the rest
 
-Most of my professional work (an access-control platform and serverless data pipelines) is private, so it isn't here. Older repositories on this account are university projects and are archived.
+Most of my professional work (an access-control platform and serverless data pipelines) is private, so it isn't here. Older university projects on this account are archived.
