@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="Chandima Ekanayake, software engineer">
 <defs>
-<radialGradient id="b1"><stop offset="0" stop-color="#ff8a4c" stop-opacity=".20"/><stop offset=".7" stop-color="#ff8a4c" stop-opacity="0"/></radialGradient>
-<radialGradient id="b2"><stop offset="0" stop-color="#ff8a4c" stop-opacity=".12"/><stop offset=".7" stop-color="#ff8a4c" stop-opacity="0"/></radialGradient>
-<pattern id="d" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1" fill="#221e1b"/></pattern>
+<radialGradient id="b1"><stop offset="0" stop-color="#c2410c" stop-opacity=".13"/><stop offset=".7" stop-color="#c2410c" stop-opacity="0"/></radialGradient>
+<radialGradient id="b2"><stop offset="0" stop-color="#c2410c" stop-opacity=".08"/><stop offset=".7" stop-color="#c2410c" stop-opacity="0"/></radialGradient>
+<pattern id="d" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1" fill="#ebe6e0"/></pattern>
 <clipPath id="c"><rect width="1200" height="240" rx="18"/></clipPath>
 </defs>
 <style>
@@ -13,13 +13,12 @@
 @media (prefers-reduced-motion:reduce){.b1,.b2{animation:none}}
 </style>
 <g clip-path="url(#c)">
-<rect width="1200" height="240" fill="#100e0d"/>
+<rect width="1200" height="240" fill="#f7f5f2"/>
 <rect width="1200" height="240" fill="url(#d)"/>
 <circle class="b1" cx="1020" cy="30" r="260" fill="url(#b1)"/>
 <circle class="b2" cx="160" cy="250" r="230" fill="url(#b2)"/>
-<text class="s" x="62" y="120" font-size="84" font-weight="600" letter-spacing="-2" fill="#f5f1ec">Chandima Ekanayake</text>
-<text class="s" x="64" y="174" font-size="28" font-weight="700" fill="#bdb5ad">Software Engineer</text>
-<text class="s" x="64" y="212" font-size="26" font-style="italic" fill="#bdb5ad">Calm, dependable systems.</text>
+<text class="s" x="62" y="126" font-size="84" font-weight="600" letter-spacing="-2" fill="#1c1917">Chandima Ekanayake</text>
+<text class="s" x="64" y="182" font-size="28" fill="#57534e"><tspan font-weight="700">Software Engineer</tspan><tspan font-weight="700" dx="14">•</tspan><tspan font-style="italic" dx="14">Calm, dependable systems.</tspan></text>
 </g>
-<rect x=".5" y=".5" width="1199" height="239" rx="17.5" fill="none" stroke="#2a2522"/>
+<rect x=".5" y=".5" width="1199" height="239" rx="17.5" fill="none" stroke="#e0dad3"/>
 </svg>
