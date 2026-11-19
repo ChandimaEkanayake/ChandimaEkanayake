@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero3-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero3-light.svg">
-  <img alt="Chandima Ekanayake, software engineer" src="assets/hero3-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero4-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero4-light.svg">
+  <img alt="Chandima Ekanayake, software engineer" src="assets/hero4-dark.svg" width="100%">
 </picture>
 
 I build software that quietly takes a chore off someone's plate: fast, calm, and honest about what it doesn't know.
