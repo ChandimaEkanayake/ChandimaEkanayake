@@ -17,8 +17,9 @@
 <rect width="1200" height="240" fill="url(#d)"/>
 <circle class="b1" cx="1020" cy="30" r="260" fill="url(#b1)"/>
 <circle class="b2" cx="160" cy="250" r="230" fill="url(#b2)"/>
-<text class="s" x="62" y="128" font-size="84" font-weight="600" letter-spacing="-2" fill="#1c1917">Chandima Ekanayake</text>
-<text class="s" x="64" y="194" font-size="28" fill="#57534e">Software engineer. Calm, dependable systems.</text>
+<text class="s" x="62" y="120" font-size="84" font-weight="600" letter-spacing="-2" fill="#1c1917">Chandima Ekanayake</text>
+<text class="s" x="64" y="174" font-size="28" font-weight="700" fill="#57534e">Software Engineer</text>
+<text class="s" x="64" y="212" font-size="26" font-style="italic" fill="#57534e">Calm, dependable systems.</text>
 </g>
 <rect x=".5" y=".5" width="1199" height="239" rx="17.5" fill="none" stroke="#e0dad3"/>
 </svg>
